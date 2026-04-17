@@ -19,4 +19,4 @@ def age():
     print(edad_dias)
     print(edad_horas)
     print(edad_minutos)
-age()
+#age()
